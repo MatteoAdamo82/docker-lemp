@@ -3,4 +3,4 @@
 Use `docker-compose up`
 
 ## requirements
-- docker desktop installed in your machine
+- docker desktop installed and running in your machine
