@@ -13,5 +13,5 @@
             <li><a href="http://localhost:81">PhpMyAdmin</a></li>
         </ul>
     </div>
-    <?php echo phpinfo(); xdebug_info(); ?>
+    <?php echo phpinfo(); ?>
 </body>
